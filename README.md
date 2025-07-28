@@ -52,6 +52,7 @@ In general see [our tools repository](https://github.com/centralelyon/):
 
 - [Table Tennis Serves](https://github.com/centralelyon/table-tennis-serves): A tool to analyze table tennis serves.
 - [Table Tennis Returns](https://github.com/centralelyon/table-tennis-returns): A tool to analyze table tennis returns.
+- [Table Tennis Analytics](https://github.com/centralelyon/table-tennis-analytics): Game metrics and statistics for table tennis.
 
 ## Talks
 
