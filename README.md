@@ -113,7 +113,8 @@ Discovering and visualizing tactics in a table tennis game based on subgroup dis
 
 - Conférence Sciences 2024 (8 juin 2023 à Lyon)
 - Journée Visu 2023 (le 22 juin 2023, à Orsay) 
-- Ecole d'été Sciences 2024 
+- Ecole d'été Sciences 2024 https://2e4.sciencesconf.org/
+- Pint of Science 2024 (le 21 mai 2024, à Lyon) https://pintofscience.fr/event/quand-la-science-performe-aux-jeux-olympiques
 
 ## Press
 
@@ -137,3 +138,21 @@ Un doctorant de l'ECL et du laboratoire LIRIS-CNRS aux côtés de l'équipe de F
 Accompagner l'équipe de France de tennis de table dans sa quête de médaille grâce à l'IA: [https://www.ec-lyon.fr/centrale-lyon/actualites/jo-2024-accompagner-lequipe-de-france-de-tennis-de-table-dans-sa-quete-de-medaille-grace-lia](https://www.ec-lyon.fr/centrale-lyon/actualites/jo-2024-accompagner-lequipe-de-france-de-tennis-de-table-dans-sa-quete-de-medaille-grace-lia)
 
 Chronique RCF Lyon L'intelligence artificielle au service de l'équipe de France de tennis de table [https://www.rcf.fr/economie-et-societe/dis-pourquoi-rcf-lyon?episode=379406](https://www.rcf.fr/economie-et-societe/dis-pourquoi-rcf-lyon?episode=379406)
+
+https://www.lequipe.fr/Tennis-de-table/Article/L-analyse-video-la-nouvelle-arme-des-pongistes-bleus-a-l-approche-des-jo-de-paris/1448752
+
+https://www.eniseen.com/news/la-technique-et-la-competition-1978
+
+https://aspctt.com/2024/08/08/aymeric-et-felix/
+
+La science au service de la performance sportive: [https://www.polytechnique-insights.com/tribunes/science/la-science-au-service-de-la-performance-sportive/](https://www.polytechnique-insights.com/tribunes/science/la-science-au-service-de-la-performance-sportive/)
+
+
+## Other
+
+
+http://liris.cnrs.fr/
+
+https://www.ec-lyon.fr/
+
+https://sciences2024.polytechnique.fr/
