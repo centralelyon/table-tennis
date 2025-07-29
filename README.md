@@ -95,19 +95,21 @@ Aymeric Erades, Romain Vuillemot. *Player-Centric Shot Maps in Table Tennis.* Co
 In general see [our tools repository](https://github.com/centralelyon/):
 
 
-- [Table Tennis Serves](https://github.com/centralelyon/table-tennis-serves): A tool to analyze table tennis serves.
+- [Table Tennis Serves](https://github.com/centralelyon/table-tennis-services): A tool to analyze table tennis serves.
+
 - [Table Tennis Returns](https://github.com/centralelyon/table-tennis-returns): A tool to analyze table tennis returns.
+
 - [Table Tennis Analytics](https://github.com/centralelyon/table-tennis-analytics): Game metrics and statistics for table tennis.
 
-Investigating Control Areas in Table Tennis
+- [Investigating Control Areas in Table Tennis](https://github.com/centralelyon/table-tennis-control-areas): A tool to analyze control areas in table tennis.
 
-Player‐Centric Shot Maps in Table Tennis
+- [Player‐Centric Shot Maps in Table Tennis](https://github.com/centralelyon/player-centric-shot-maps)
 
-SportsVideo: A Multimedia Dataset for Sports Event and Position Detection in Table Tennis and Swimming
+- [SportsVideo: A Multimedia Dataset for Sports Event and Position Detection in Table Tennis and Swimming](https://github.com/centralelyon/SportsVideo)
 
-Visual Analysis of Table Tennis Game Tactics
+- [Visual Analysis of Table Tennis Game Tactics](https://github.com/centralelyon/table-tennis-analytics)
 
-Discovering and visualizing tactics in a table tennis game based on subgroup discovery
+- Discovering and visualizing tactics in a table tennis game based on subgroup discovery
 
 ## Talks
 
