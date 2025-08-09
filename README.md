@@ -43,7 +43,7 @@ Contact: romain.vuillemot@ec-lyon.fr
     ]
   });
 
-  document.getElementById("timeline").appendChild(chart);
+//  document.getElementById("timeline").appendChild(chart);
 </script>
 ## What do we do?
 
@@ -132,6 +132,8 @@ In general see [our tools repository](https://github.com/centralelyon/):
 
 - [Visual Analysis of Table Tennis Game Tactics](https://github.com/centralelyon/table-tennis-analytics)
 
+- Virtual reality to explore table tennis data in Amigo Platform https://amigocap.github.io/
+
 - Discovering and visualizing tactics in a table tennis game based on subgroup discover
 
 ## Datasets
@@ -142,9 +144,12 @@ https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/
 
 ## Talks
 
+- EuroVis 2025 (June 2025, Luxembourg) https://eurovis2025.eu/
+- EuroVA 2025 (June 2025, Luxembourg) https://x.com/euro_va/status/1929559822128619915
 - Conférence Sciences 2024 (8 juin 2023 à Lyon)
 - Journée Visu 2023 (le 22 juin 2023, à Orsay) 
-- Ecole d'été Sciences 2024 https://2e4.sciencesconf.org/
+- Ecole d'été 2023 https://sciences2024-2e2.sciencesconf.org/program 
+- Ecole d'été 2025 Sciences 2024 https://2e4.sciencesconf.org/
 - Pint of Science 2024 (le 21 mai 2024, à Lyon) https://pintofscience.fr/event/quand-la-science-performe-aux-jeux-olympiques
 
 ## Press
@@ -170,20 +175,34 @@ Accompagner l'équipe de France de tennis de table dans sa quête de médaille g
 
 Chronique RCF Lyon L'intelligence artificielle au service de l'équipe de France de tennis de table [https://www.rcf.fr/economie-et-societe/dis-pourquoi-rcf-lyon?episode=379406](https://www.rcf.fr/economie-et-societe/dis-pourquoi-rcf-lyon?episode=379406)
 
+L'analyse vidéo, la nouvelle arme des pongistes bleus à l'approche des JO de Paris.
 https://www.lequipe.fr/Tennis-de-table/Article/L-analyse-video-la-nouvelle-arme-des-pongistes-bleus-a-l-approche-des-jo-de-paris/1448752
 
+La technique et la compétition:
 https://www.eniseen.com/news/la-technique-et-la-competition-1978
 
+Aymeric Erades et Félix Lebrun
 https://aspctt.com/2024/08/08/aymeric-et-felix/
 
-La science au service de la performance sportive: [https://www.polytechnique-insights.com/tribunes/science/la-science-au-service-de-la-performance-sportive/](https://www.polytechnique-insights.com/tribunes/science/la-science-au-service-de-la-performance-sportive/)
+La science au service de la performance sportive: https://www.polytechnique-insights.com/tribunes/science/la-science-au-service-de-la-performance-sportive/
+
+Fait marquant du LIRIS 2023 https://liris.cnrs.fr/sites/default/files/Documents/faits_marquants/2023.pdf
+
 
 
 ## Other
 
+LIRIS: https://liris.cnrs.fr/
 
-http://liris.cnrs.fr/
+Centrale Lyon: https://www.ec-lyon.fr/
 
-https://www.ec-lyon.fr/
+Sciences 2024: https://sciences2024.polytechnique.fr/
 
-https://sciences2024.polytechnique.fr/
+
+---
+
+<figure>  <div style="display: flex; width: 100%;">
+  <img src="figures/logo-ecl.png" alt="ECL Logo" style="width: 60%; margin: 20px auto; display: block;" />
+  <img src="figures/logo-liris.png" alt="LIRIS Logo" style="width:50%; margin: 20px auto; display: block;" />
+</div>
+</figure>
