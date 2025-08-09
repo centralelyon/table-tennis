@@ -88,12 +88,35 @@ As a research group ou activity is centered as follows:
 
 ## Publications
 
-Aymeric Erades, Romain Vuillemot. *Player-Centric Shot Maps in Table Tennis.* Computer Graphics Forum, 2025, pp.10. <img alt="https://hal.science/hal-04997867/file/Player-Centric_Shot_Maps_in_Table_Tennis.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04997867/file/Player-Centric_Shot_Maps_in_Table_Tennis.pdf">
+Riad Attou, Marin Mathé, Aymeric Eradès, Romain Vuillemot. **Analysis of Service Returns in Table Tennis** 12th Workshop on Machine Learning and Data Mining for Sports Analytics (ECML/PKDD 2025), Sep 2025, Porto, Portugal. <a href="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" target="_blank">
+<img alt="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf"></a>
+
+Aymeric Erades, Romain Vuillemot. **Player-Centric Shot Maps in Table Tennis.** Computer Graphics Forum, 2025, pp.10. <img alt="https://hal.science/hal-04997867/file/Player-Centric_Shot_Maps_in_Table_Tennis.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04997867/file/Player-Centric_Shot_Maps_in_Table_Tennis.pdf">
+
+Aymeric Erades, Lou Peuch, Romain Vuillemot. **Investigating Control Areas in Table Tennis.** Sixteenth International EuroVis Workshop on Visual Analytics (EuroVA), Jun 2025, Luxembourg, France. <a href="https://hal.science/hal-05032405/file/_TT__EuroVA_occupation.pdf" target="_blank">
+<img alt="https://hal.science/hal-05032405/file/_TT__EuroVA_occupation.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-05032405/file/_TT__EuroVA_occupation.pdf"></a>
+
+Aymeric Erades, Thomas Papon, Romain Vuillemot. **Characterizing Serves in Table Tennis**. Machine Learning and Data Mining for Sports Analytics, Sep 2024, Vilnius (Lituanie), Lithuania. <a href="https://hal.science/hal-04691690/file/_MLSA24__Characterizing_Serves_in_Table_Tennis.pdf" target="_blank">
+<img alt="https://hal.science/hal-04691690/file/_MLSA24__Characterizing_Serves_in_Table_Tennis.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04691690/file/_MLSA24__Characterizing_Serves_in_Table_Tennis.pdf"></a>
+
+Aymeric Erades, Anais Servais, Christophe Hurter, Romain Vuillemot. **Un design space de vidéos augmentées de matches de tennis de table**. Journée Visu, 2024. <a href="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf" target="_blank">
+<img alt="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf"></a>
+
+
+Aymeric Erades, Pierre-Etienne Martin, Romain Vuillemot, Boris Mansencal, Renaud Péteri, Julien Morlier, Stefan Duffner, Jenny Benois-Pineau. **SportsVideo: A Multimedia Dataset for Sports Event and Position Detection in Table Tennis and Swimming.** MediaEval 2023 Workshop collocated with MMM 2024, Feb 2024, Amsterdam, Netherlands. <a href="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf" target="_blank">
+<img alt="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf"></a>
+
+Gabin Calmet, Aymeric Erades, Romain Vuillemot. **Exploring Table Tennis Analytics: Domination, Expected Score and Shot Diversity.** Machine Learning and Data Mining for Sports Analytics, Sep 2023, Turin, Italy. <a href="https://hal.science/hal-04240982/file/_MLSA23__Analyzing_Table_Tennis_Games_using_Detailed_Sports_Data.pdf" target="_blank">
+<img alt="https://hal.science/hal-04240982/file/_MLSA23__Analyzing_Table_Tennis_Games_using_Detailed_Sports_Data.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04240982/file/_MLSA23__Analyzing_Table_Tennis_Games_using_Detailed_Sports_Data.pdf"></a>
+
+Aymeric Erades, Romain Vuillemot. **Visual Analysis of Table Tennis Game Tactics.**
+Journée VISU 2023. <a href="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf" target="_blank"><img alt="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf"></a>
+
+Pierre Duluard, Xinqing Li, Marc Plantevit, Céline Robardet, Romain Vuillemot. **Discovering and Visualizing Tactics in a Table Tennis Game Based on Subgroup Discovery.**  ECML/PKDD 2022 Workshop, Grenoble, France, 2022, ⟨10.1007/978-3-031-27527-2_8⟩. <a href="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf" target="_blank"><img alt="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf"></a>
 
 ## Tools
 
 In general see [our tools repository](https://github.com/centralelyon/):
-
 
 - [Table Tennis Serves](https://github.com/centralelyon/table-tennis-services): A tool to analyze table tennis serves.
 
@@ -109,7 +132,13 @@ In general see [our tools repository](https://github.com/centralelyon/):
 
 - [Visual Analysis of Table Tennis Game Tactics](https://github.com/centralelyon/table-tennis-analytics)
 
-- Discovering and visualizing tactics in a table tennis game based on subgroup discovery
+- Discovering and visualizing tactics in a table tennis game based on subgroup discover
+
+## Datasets
+
+(to be released soon)
+
+https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/
 
 ## Talks
 
@@ -121,12 +150,12 @@ In general see [our tools repository](https://github.com/centralelyon/):
 ## Press
 
 <figure>
-  <div style="display: flex; width: 100%;">
-    <img src="figures/news__20240215103926.jpg" style="width: 50%;" />&nbsp;
+  <div style="display: flex; width: 80%;">
+    <img src="figures/news__20240215103926.jpg" style="width: 80%;" />&nbsp;
     <img src="figures/2023_mai_ec_cordees_de_la_reussite_basse_def_078.jpg" style="width: 50%;" />
   </div>
   <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
-    Fête de la science and a working session with students at Centrale Lyon.
+    Meeting at FFT headquarters and demo in Salle Amigo at Centrale Lyon.
   </figcaption>
 </figure>
 
