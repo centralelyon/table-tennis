@@ -130,15 +130,15 @@ In general see [our tools repository](https://github.com/centralelyon/):
 
 - [Visual Analysis of Table Tennis Game Tactics](https://github.com/centralelyon/table-tennis-analytics)
 
-- Virtual reality to explore table tennis data in Amigo Platform https://amigocap.github.io/
+- Virtual reality to explore table tennis data in Amigo Platform [https://amigocap.github.io/](https://amigocap.github.io/) [https://github.com/AmigoCap/AnalyseTT](https://github.com/AmigoCap/AnalyseTT)
 
-- Discovering and visualizing tactics in a table tennis game based on subgroup discover
+- Discovering and visualizing tactics in a table tennis game based on subgroup discovery 
 
 ## Datasets
 
 (to be released soon)
 
-https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/
+[https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/](https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/)
 
 ## Talks
 
