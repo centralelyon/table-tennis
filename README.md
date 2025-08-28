@@ -1,8 +1,6 @@
 # Table Tennis Research 
 
-Contact: romain.vuillemot@ec-lyon.fr
-
-
+Contact: [romain.vuillemot@ec-lyon.fr](mailto:romain.vuillemot@ec-lyon.fr)
 
 <script type="module">
   import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
@@ -144,13 +142,13 @@ https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/
 
 ## Talks
 
-- EuroVis 2025 (June 2025, Luxembourg) https://eurovis2025.eu/
-- EuroVA 2025 (June 2025, Luxembourg) https://x.com/euro_va/status/1929559822128619915
-- Conférence Sciences 2024 (8 juin 2023 à Lyon)
-- Journée Visu 2023 (le 22 juin 2023, à Orsay) 
-- Ecole d'été 2023 https://sciences2024-2e2.sciencesconf.org/program 
-- Ecole d'été 2025 Sciences 2024 https://2e4.sciencesconf.org/
-- Pint of Science 2024 (le 21 mai 2024, à Lyon) https://pintofscience.fr/event/quand-la-science-performe-aux-jeux-olympiques
+- EuroVis 2025 (June 2025, Luxembourg) [https://eurovis2025.eu/](https://eurovis2025.eu/)
+- EuroVA 2025 (June 2025, Luxembourg) [https://x.com/euro_va/status/1929559822128619915](https://x.com/euro_va/status/1929559822128619915)
+- Challenge Sciences 2024 (8 juin 2023 à Lyon) [https://clm202423.sciencesconf.org/](https://clm202423.sciencesconf.org/)
+- Journée Visu 2023 (le 22 juin 2023, à Orsay) [https://journee-visu.github.io/2023/](https://journee-visu.github.io/2023/)
+- Ecole d'été 2023 [https://sciences2024-2e2.sciencesconf.org/program](https://sciences2024-2e2.sciencesconf.org/program)
+- Ecole d'été 2025 [https://2e4.sciencesconf.org/](https://2e4.sciencesconf.org/)
+- Pint of Science 2024 (le 21 mai 2024, à Lyon) [https://pintofscience.fr/event/quand-la-science-performe-aux-jeux-olympiques](https://pintofscience.fr/event/quand-la-science-performe-aux-jeux-olympiques)
 
 ## Press
 
@@ -176,33 +174,32 @@ Accompagner l'équipe de France de tennis de table dans sa quête de médaille g
 Chronique RCF Lyon L'intelligence artificielle au service de l'équipe de France de tennis de table [https://www.rcf.fr/economie-et-societe/dis-pourquoi-rcf-lyon?episode=379406](https://www.rcf.fr/economie-et-societe/dis-pourquoi-rcf-lyon?episode=379406)
 
 L'analyse vidéo, la nouvelle arme des pongistes bleus à l'approche des JO de Paris.
-https://www.lequipe.fr/Tennis-de-table/Article/L-analyse-video-la-nouvelle-arme-des-pongistes-bleus-a-l-approche-des-jo-de-paris/1448752
+[https://www.lequipe.fr/Tennis-de-table/Article/L-analyse-video-la-nouvelle-arme-des-pongistes-bleus-a-l-approche-des-jo-de-paris/1448752](https://www.lequipe.fr/Tennis-de-table/Article/L-analyse-video-la-nouvelle-arme-des-pongistes-bleus-a-l-approche-des-jo-de-paris/1448752)
 
 La technique et la compétition:
-https://www.eniseen.com/news/la-technique-et-la-competition-1978
+[https://www.eniseen.com/news/la-technique-et-la-competition-1978](https://www.eniseen.com/news/la-technique-et-la-competition-1978)
 
 Aymeric Erades et Félix Lebrun
-https://aspctt.com/2024/08/08/aymeric-et-felix/
+[https://aspctt.com/2024/08/08/aymeric-et-felix/](https://aspctt.com/2024/08/08/aymeric-et-felix/)
 
-La science au service de la performance sportive: https://www.polytechnique-insights.com/tribunes/science/la-science-au-service-de-la-performance-sportive/
+La science au service de la performance sportive: [https://www.polytechnique-insights.com/tribunes/science/la-science-au-service-de-la-performance-sportive/](https://www.polytechnique-insights.com/tribunes/science/la-science-au-service-de-la-performance-sportive/)
 
-Fait marquant du LIRIS 2023 https://liris.cnrs.fr/sites/default/files/Documents/faits_marquants/2023.pdf
-
-
+Fait marquant du LIRIS 2023 [https://liris.cnrs.fr/sites/default/files/Documents/faits_marquants/2023.pdf](https://liris.cnrs.fr/sites/default/files/Documents/faits_marquants/2023.pdf)
 
 ## Other
 
-LIRIS: https://liris.cnrs.fr/
+LIRIS: [https://liris.cnrs.fr/](https://liris.cnrs.fr/)
 
-Centrale Lyon: https://www.ec-lyon.fr/
+Centrale Lyon: [https://www.ec-lyon.fr/](https://www.ec-lyon.fr/)
 
-Sciences 2024: https://sciences2024.polytechnique.fr/
+Sciences 2024: [https://sciences2024.polytechnique.fr/](https://sciences2024.polytechnique.fr/)
 
 
 ---
 
-<figure>  <div style="display: flex; width: 100%;">
-  <img src="figures/logo-ecl.png" alt="ECL Logo" style="width: 60%; margin: 20px auto; display: block;" />
-  <img src="figures/logo-liris.png" alt="LIRIS Logo" style="width:50%; margin: 20px auto; display: block;" />
+<figure>  <div style="display: flex; width: 100%;"><a href="https://www.ec-lyon.fr/" target="_blank">
+  <img src="figures/logo-ecl.png" alt="ECL Logo" style="width: 200px; margin: 20px auto; display: block;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://liris.cnrs.fr/" target="_blank">
+  <img src="figures/logo-liris.png" alt="LIRIS Logo" style="width:200px; margin: 20px auto; display: block;" /></a>
 </div>
 </figure>
