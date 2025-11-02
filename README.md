@@ -124,7 +124,7 @@ In general see [our tools repository](https://github.com/centralelyon/):
 
 - [Investigating Control Areas in Table Tennis](https://github.com/centralelyon/table-tennis-control-areas): A tool to analyze control areas in table tennis.
 
-- [Player‐Centric Shot Maps in Table Tennis](https://github.com/centralelyon/player-centric-shot-maps)
+- [Player‐Centric Shot Maps in Table Tennis](https://github.com/centralelyon/player-centric-shot-maps): A tool to analyze bounce positions in relation to player positions
 
 - [SportsVideo: A Multimedia Dataset for Sports Event and Position Detection in Table Tennis and Swimming](https://github.com/centralelyon/SportsVideo)
 
