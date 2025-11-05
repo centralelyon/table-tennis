@@ -45,13 +45,13 @@ Contact: [romain.vuillemot@ec-lyon.fr](mailto:romain.vuillemot@ec-lyon.fr)
 </script>
 ## What do we do?
 
-We are a team of researchers at [Centrale Lyon](https://www.ec-lyon.fr/) and [LIRIS](https://liris.cnrs.fr/) Laboratory working on sports data analysis to improve athletes performances. We focus on various sports, from swimming to table tennis, in close collaboration with athletes and coaches. We leverage existing data science, computer vision, and data visualization techniques to extract insights from data, in particular our approach is the following:
+We are a team of researchers at [Centrale Lyon](https://www.ec-lyon.fr/) (Engineering School) and [LIRIS](https://liris.cnrs.fr/) (Reaserch Laboratory) working on sports data analysis and visualization to improve athletes performances. We focus on various sports, from swimming to table tennis, in close collaboration with athletes and coaches. Our approach is the following:
 
-- **Data Collection**: We gather data from various sources, with a focus  on video footage, but also experiment / benchmark tracking devices (e.g. Motion capture, IMUs) and publicly available datasets.
-- **Exploratory Data Analysis**: We calculate and visualize exploratory statistics, data distributions to create visual dashboard so we can better grasp the collected data properties (and quality) to create models and new statistics.
-- **Data Visualization**: We also build custom, advanced visualizations to help us understand complex data patterns and trends from collected data and statistics. We also use visualization to communicate our findings to athletes and coaches.
+- **Data Collection** - we gather data from various sources, with a focus  on video footage, but also experiment / benchmark tracking devices (e.g. Motion capture, IMUs) and publicly available datasets.
+- **Exploratory Data Analysis** - we calculate and visualize exploratory statistics, data distributions to create visual dashboard so we can better grasp the collected data properties (and quality) to create models and new statistics.
+- **Data Visualization** - we also build custom, advanced visualizations to help us understand complex data patterns and trends from collected data and statistics. We also use visualization to communicate our findings to athletes and coaches.
 
-As a research group ou activity is centered as follows:
+As a research group our activity is centered as follows:
 
 - **Publishing** research academic publications in sports-specific venues (eg MLSA workshop) but also general Vis/HCI (IEEE Vis, EuroGraphics, CHI).
 - **Developing** tools and methods for data collection and analysis.
@@ -72,13 +72,15 @@ As a research group ou activity is centered as follows:
 
 ## People
 
-- [Romain Vuillemot](mailto:romain.vuillemot@ec-lyon.fr) (Assistant professor, Centrale Lyon, LIRIS)
+Principal Investigator: [Romain Vuillemot](mailto:romain.vuillemot@ec-lyon.fr) (Assistant professor, Centrale Lyon, LIRIS)
+
+Team Members:
 - Aymeric Erades (PhD student, Centrale Lyon, LIRIS)
 
 
 <div id="timeline"></div>
 
-*Students:* Lou Peuch, Thomas Papon, Guillaume Boitard, Farouk Miled, Gabin Calment, Hamdi Sokma, Huanyu Qu, Emmanuel Minois-Genin, Pierre Duluard, Eymeric Chauchat, Xinqing Li (more to come)
+
 
 *Collaborators:* Pierre Ripoll, Sylvain Lesage.
 
@@ -110,11 +112,11 @@ Gabin Calmet, Aymeric Erades, Romain Vuillemot. **Exploring Table Tennis Analyti
 Aymeric Erades, Romain Vuillemot. **Visual Analysis of Table Tennis Game Tactics.**
 Journée VISU 2023. <a href="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf" target="_blank"><img alt="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf"></a>
 
-Pierre Duluard, Xinqing Li, Marc Plantevit, Céline Robardet, Romain Vuillemot. **Discovering and Visualizing Tactics in a Table Tennis Game Based on Subgroup Discovery.**  ECML/PKDD 2022 Workshop, Grenoble, France, 2022, ⟨10.1007/978-3-031-27527-2_8⟩. <a href="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf" target="_blank"><img alt="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf"></a>
+Pierre Duluard, Xinqing Li, Marc Plantevit, Céline Robardet, Romain Vuillemot. **Discovering and Visualizing Tactics in a Table Tennis Game Based on Subgroup Discovery.**  ECML/PKDD 2022 Workshop, Grenoble, France, 2022. <a href="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf" target="_blank"><img alt="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf"></a>
 
-## Tools
+## Code and Data
 
-In general see [our tools repository](https://github.com/centralelyon/):
+Code: in general see [our tools repository](https://github.com/centralelyon/):
 
 - [Table Tennis Serves](https://github.com/centralelyon/table-tennis-services): A tool to analyze table tennis serves.
 
@@ -124,21 +126,19 @@ In general see [our tools repository](https://github.com/centralelyon/):
 
 - [Investigating Control Areas in Table Tennis](https://github.com/centralelyon/table-tennis-control-areas): A tool to analyze control areas in table tennis.
 
-- [Player‐Centric Shot Maps in Table Tennis](https://github.com/centralelyon/player-centric-shot-maps): A tool to analyze bounce positions in relation to player positions
+- [Player‐Centric Shot Maps in Table Tennis](https://github.com/centralelyon/player-centric-shot-maps): A tool to analyze bounce positions in relation to player positions.
 
 - [SportsVideo: A Multimedia Dataset for Sports Event and Position Detection in Table Tennis and Swimming](https://github.com/centralelyon/SportsVideo)
 
 - [Visual Analysis of Table Tennis Game Tactics](https://github.com/centralelyon/table-tennis-analytics)
 
-- Virtual reality to explore table tennis data in Amigo Platform [https://amigocap.github.io/](https://amigocap.github.io/) [https://github.com/AmigoCap/AnalyseTT](https://github.com/AmigoCap/AnalyseTT)
+- [Virtual reality to explore table tennis data](https://github.com/AmigoCap/AnalyseTT) in [Amigo Platform](https://amigocap.github.io/)
 
 - Discovering and visualizing tactics in a table tennis game based on subgroup discovery 
 
-## Datasets
+Data:
 
-(to be released soon)
-
-[https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/](https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/)
+- [SportsVideo: A Multimedia Dataset for Sports Event and Position Detection in Table Tennis and Swimming](https://github.com/centralelyon/sportsvideo) part of the [MediaEval 2023 challenge](https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/)
 
 ## Talks
 
@@ -150,7 +150,7 @@ In general see [our tools repository](https://github.com/centralelyon/):
 - Ecole d'été 2025 [https://2e4.sciencesconf.org/](https://2e4.sciencesconf.org/)
 - Pint of Science 2024 (le 21 mai 2024, à Lyon) [https://pintofscience.fr/event/quand-la-science-performe-aux-jeux-olympiques](https://pintofscience.fr/event/quand-la-science-performe-aux-jeux-olympiques)
 
-## Press
+## Press Coverage
 
 <figure>
   <div style="display: flex; width: 80%;">
@@ -168,6 +168,7 @@ JO : des athlètes performent grâce aux chercheurs de l’École centrale de Ly
 
 Un doctorant de l'ECL et du laboratoire LIRIS-CNRS aux côtés de l'équipe de France de tennis de table: [https://www.centraliens-lyon.net/technica/article/jo-paris-2024-un-doctorant-de-l-ecl-et-du-laboratoire-liris-cnrs-aux-cotes-de-l-equipe-de-france-de-tennis-de-table/487](https://www.centraliens-lyon.net/technica/article/jo-paris-2024-un-doctorant-de-l-ecl-et-du-laboratoire-liris-cnrs-aux-cotes-de-l-equipe-de-france-de-tennis-de-table/487)
 
+JO Paris 2024 : un doctorant de l’ECL et du laboratoire LIRIS CNRS aux côtés de l’Équipe de France de Tennis de Table [https://www.technica-magazine.fr/technica/article/ jo-paris-2024-un-doctorant-de-l-ecl-et-du-laboratoire-liris-cnrs-aux-cotes-de-l-equipe-de-france-de-tennis-de-table/487](https://www.technica-magazine.fr/technica/article/jo-paris-2024-un-doctorant-de-l-ecl-et-du-laboratoire-liris-cnrs-aux-cotes-de-l-equipe-de-france-de-tennis-de-table/487)
 
 Accompagner l'équipe de France de tennis de table dans sa quête de médaille grâce à l'IA: [https://www.ec-lyon.fr/centrale-lyon/actualites/jo-2024-accompagner-lequipe-de-france-de-tennis-de-table-dans-sa-quete-de-medaille-grace-lia](https://www.ec-lyon.fr/centrale-lyon/actualites/jo-2024-accompagner-lequipe-de-france-de-tennis-de-table-dans-sa-quete-de-medaille-grace-lia)
 
@@ -186,7 +187,9 @@ La science au service de la performance sportive: [https://www.polytechnique-ins
 
 Fait marquant du LIRIS 2023 [https://liris.cnrs.fr/sites/default/files/Documents/faits_marquants/2023.pdf](https://liris.cnrs.fr/sites/default/files/Documents/faits_marquants/2023.pdf)
 
-## Other
+JO 2024 : l’École Centrale de Lyon et la Fédération Française de Tennis de Table signent une convention de partenariat [https://www.ec-lyon.fr/centrale-lyon/actualites/jo-2024-lecole-centrale-de-lyon-et-la-federation-francaise-de-tennis-de-table-signent-une-convention](https://www.ec-lyon.fr/centrale-lyon/actualites/jo-2024-lecole-centrale-de-lyon-et-la-federation-francaise-de-tennis-de-table-signent-une-convention)
+
+## Links
 
 LIRIS: [https://liris.cnrs.fr/](https://liris.cnrs.fr/)
 
@@ -194,8 +197,9 @@ Centrale Lyon: [https://www.ec-lyon.fr/](https://www.ec-lyon.fr/)
 
 Sciences 2024: [https://sciences2024.polytechnique.fr/](https://sciences2024.polytechnique.fr/)
 
+FFTT: [https://www.fftt.com/](https://www.fftt.com/)
 
----
+
 
 <figure>  <div style="display: flex; width: 100%;"><a href="https://www.ec-lyon.fr/" target="_blank">
   <img src="figures/logo-ecl.png" alt="ECL Logo" style="width: 200px; margin: 20px auto; display: block;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
