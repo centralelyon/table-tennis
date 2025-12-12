@@ -45,7 +45,7 @@ Contact: [romain.vuillemot@ec-lyon.fr](mailto:romain.vuillemot@ec-lyon.fr)
 </script>
 ## What do we do?
 
-We are a team of researchers at [Centrale Lyon](https://www.ec-lyon.fr/) (Engineering School) and [LIRIS](https://liris.cnrs.fr/) (Reaserch Laboratory) working on sports data analysis and visualization to improve athletes performances. We focus on various sports, from swimming to table tennis, in close collaboration with athletes and coaches. Our approach is the following:
+We are a team of researchers at [Centrale Lyon](https://www.ec-lyon.fr/) (French Engineering School) and [LIRIS](https://liris.cnrs.fr/) (Reaserch Laboratory) working on sports data analysis and visualization to improve athletes performances. We focus on various sports, from swimming to table tennis, in close collaboration with athletes and coaches. Our approach is the following:
 
 - **Data Collection** - we gather data from various sources, with a focus  on video footage, but also experiment / benchmark tracking devices (e.g. Motion capture, IMUs) and publicly available datasets.
 - **Exploratory Data Analysis** - we calculate and visualize exploratory statistics, data distributions to create visual dashboard so we can better grasp the collected data properties (and quality) to create models and new statistics.
@@ -53,7 +53,7 @@ We are a team of researchers at [Centrale Lyon](https://www.ec-lyon.fr/) (Engine
 
 As a research group our activity is centered as follows:
 
-- **Publishing** research academic publications in sports-specific venues (eg MLSA workshop) but also general Vis/HCI (IEEE Vis, EuroGraphics, CHI).
+- **Publishing** research academic publications in sports-specific venues (e.g. MLSA workshop) but also general Vis/HCI (IEEE Vis, EuroGraphics, CHI).
 - **Developing** tools and methods for data collection and analysis.
 - **Collaborating** with other researchers and institutions in the field of sports analytics.
 - **Disseminating** our findings through conferences, workshops, and online platforms.
@@ -72,21 +72,22 @@ As a research group our activity is centered as follows:
 
 ## People
 
-Principal Investigator: [Romain Vuillemot](mailto:romain.vuillemot@ec-lyon.fr) (Assistant professor, Centrale Lyon, LIRIS)
+Team:
 
-Team Members:
-- Aymeric Erades (PhD student, Centrale Lyon, LIRIS)
+- [Romain Vuillemot](mailto:romain.vuillemot@ec-lyon.fr) (Assistant professor, Centrale Lyon, LIRIS) principal investigator
+- [Aymeric Erades](https://eradesaymeric.github.io/) (PhD student, Centrale Lyon, LIRIS)
 
 
 <div id="timeline"></div>
 
-
-
-*Collaborators:* Pierre Ripoll, Sylvain Lesage.
-
-*External Collaborators:* Marc Plantevit, Céline Robardet, Pierre-Etienne Martin, Anais Servais, Christophe Hurter.
+*Collaborators:* Pierre Ripoll, Sylvain Lesage, Marc Plantevit, Céline Robardet, Pierre-Etienne Martin, Anais Servais, Christophe Hurter, Riad Attou, Marin Mathé, Lou Peuch, Thomas Papon, Pierre-Etienne Martin, Gabin Calmet, Pierre Duluard, Xinqing Li.
 
 ## Publications
+
+Aymeric Erades, **Visual Analysis of Tactics in Table Tennis**, PhD Thesis, Centrale Lyon, 2025. <a href="https://eradesaymeric.github.io/#thesis" target="_blank">
+<img alt="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0"></a>
+
+Aymeric Erades, Romain Vuillemot. **How Camera Angle Impact Table Tennis Ball Bounce Tracking**. Sports Physics, 2025.
 
 Riad Attou, Marin Mathé, Aymeric Eradès, Romain Vuillemot. **Analysis of Service Returns in Table Tennis** 12th Workshop on Machine Learning and Data Mining for Sports Analytics (ECML/PKDD 2025), Sep 2025, Porto, Portugal. <a href="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" target="_blank">
 <img alt="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf"></a>
@@ -101,7 +102,6 @@ Aymeric Erades, Thomas Papon, Romain Vuillemot. **Characterizing Serves in Table
 
 Aymeric Erades, Anais Servais, Christophe Hurter, Romain Vuillemot. **Un design space de vidéos augmentées de matches de tennis de table**. Journée Visu, 2024. <a href="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf" target="_blank">
 <img alt="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf"></a>
-
 
 Aymeric Erades, Pierre-Etienne Martin, Romain Vuillemot, Boris Mansencal, Renaud Péteri, Julien Morlier, Stefan Duffner, Jenny Benois-Pineau. **SportsVideo: A Multimedia Dataset for Sports Event and Position Detection in Table Tennis and Swimming.** MediaEval 2023 Workshop collocated with MMM 2024, Feb 2024, Amsterdam, Netherlands. <a href="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf" target="_blank">
 <img alt="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf"></a>
@@ -142,6 +142,7 @@ Data:
 
 ## Talks
 
+- PhD Defense - Aymeric Erades - Visual Analysis of Tactics in Table Tennis (December 2025, Lyon) [Video](https://www.youtube.com/watch?v=2sZdIiWiR4Q)
 - EuroVis 2025 (June 2025, Luxembourg) [https://eurovis2025.eu/](https://eurovis2025.eu/)
 - EuroVA 2025 (June 2025, Luxembourg) [https://x.com/euro_va/status/1929559822128619915](https://x.com/euro_va/status/1929559822128619915)
 - Challenge Sciences 2024 (8 juin 2023 à Lyon) [https://clm202423.sciencesconf.org/](https://clm202423.sciencesconf.org/)
