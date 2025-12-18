@@ -84,8 +84,8 @@ Team:
 
 ## Publications
 
-Aymeric Erades, **Visual Analysis of Tactics in Table Tennis**, PhD Thesis, Centrale Lyon, 2025. <a href="https://eradesaymeric.github.io/#thesis" target="_blank">
-<img alt="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0"></a>
+Aymeric Erades. **Visual Analysis of Tactics in Table Tennis**, PhD Thesis, Centrale Lyon, 2025. <a href="https://eradesaymeric.github.io/#thesis" target="_blank">
+<img alt="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0"></a> [Video](https://www.youtube.com/watch?v=2sZdIiWiR4Q)
 
 Aymeric Erades, Romain Vuillemot. **How Camera Angle Impact Table Tennis Ball Bounce Tracking**. Sports Physics, 2025.
 
@@ -128,8 +128,6 @@ Code: in general see [our tools repository](https://github.com/centralelyon/):
 
 - [Player‐Centric Shot Maps in Table Tennis](https://github.com/centralelyon/player-centric-shot-maps): A tool to analyze bounce positions in relation to player positions.
 
-- [SportsVideo: A Multimedia Dataset for Sports Event and Position Detection in Table Tennis and Swimming](https://github.com/centralelyon/SportsVideo)
-
 - [Visual Analysis of Table Tennis Game Tactics](https://github.com/centralelyon/table-tennis-analytics)
 
 - [Virtual reality to explore table tennis data](https://github.com/AmigoCap/AnalyseTT) in [Amigo Platform](https://amigocap.github.io/)
@@ -138,7 +136,7 @@ Code: in general see [our tools repository](https://github.com/centralelyon/):
 
 Data:
 
-- [SportsVideo: A Multimedia Dataset for Sports Event and Position Detection in Table Tennis and Swimming](https://github.com/centralelyon/sportsvideo) part of the [MediaEval 2023 challenge](https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/)
+- [SportsVideo:](https://github.com/centralelyon/SportsVideo) A multimedia dataset for sports event and position detection in table tennis and swimming, part of the [MediaEval 2023 challenge](https://multimediaeval.github.io/editions/2023/tasks/sportsvideo/)
 
 ## Talks
 
