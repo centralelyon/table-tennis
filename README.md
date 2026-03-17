@@ -74,7 +74,7 @@ As a research group our activity is centered as follows:
 
 Team:
 
-- [Romain Vuillemot](mailto:romain.vuillemot@ec-lyon.fr) (Assistant professor, Centrale Lyon, LIRIS) principal investigator
+- [Romain Vuillemot](https://romain.vuillemot.net/) (Assistant professor, Centrale Lyon, LIRIS) principal investigator
 - [Aymeric Erades](https://eradesaymeric.github.io/) (PhD student, Centrale Lyon, LIRIS)
 
 
@@ -84,7 +84,7 @@ Team:
 
 ## Publications
 
-Aymeric Erades. **Visual Analysis of Tactics in Table Tennis**, PhD Thesis, Centrale Lyon, 2025. <a href="https://eradesaymeric.github.io/#thesis" target="_blank">
+Aymeric Erades. **Visual Analysis of Tactics in Table Tennis**, PhD Thesis, Centrale Lyon, 2025. <a href="https://hal.science/tel-05534364v2/document" target="_blank">
 <img alt="https://hal.science/tel-05534364v2/document" src="figures/pdf.png" border="0"></a> [Video](https://www.youtube.com/watch?v=2sZdIiWiR4Q)
 
 Aymeric Erades, Romain Vuillemot. **How Camera Angle Impact Table Tennis Ball Bounce Tracking**. Sports Physics, 2025. <a href="https://eradesaymeric.github.io/pdf/paper_2025_sports_physics.pdf" target="_blank">
