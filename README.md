@@ -85,34 +85,35 @@ Team:
 ## Publications
 
 Aymeric Erades. **Visual Analysis of Tactics in Table Tennis**, PhD Thesis, Centrale Lyon, 2025. <a href="https://eradesaymeric.github.io/#thesis" target="_blank">
-<img alt="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0"></a> [Video](https://www.youtube.com/watch?v=2sZdIiWiR4Q)
+<img alt="https://hal.science/tel-05534364v2/document" src="figures/pdf.png" border="0"></a> [Video](https://www.youtube.com/watch?v=2sZdIiWiR4Q)
 
-Aymeric Erades, Romain Vuillemot. **How Camera Angle Impact Table Tennis Ball Bounce Tracking**. Sports Physics, 2025.
+Aymeric Erades, Romain Vuillemot. **How Camera Angle Impact Table Tennis Ball Bounce Tracking**. Sports Physics, 2025. <a href="https://eradesaymeric.github.io/pdf/paper_2025_sports_physics.pdf" target="_blank">
+<img alt="https://eradesaymeric.github.io/pdf/paper_2025_sports_physics.pdf" src="figures/pdf.png" border="0"></a>
 
 Riad Attou, Marin Mathé, Aymeric Eradès, Romain Vuillemot. **Analysis of Service Returns in Table Tennis** 12th Workshop on Machine Learning and Data Mining for Sports Analytics (ECML/PKDD 2025), Sep 2025, Porto, Portugal. <a href="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" target="_blank">
-<img alt="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf"></a>
+<img alt="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf" src="figures/pdf.png" border="0" title="https://hal.science/hal-05201121/file/MLSA25_paper_230.pdf"></a>
 
-Aymeric Erades, Romain Vuillemot. **Player-Centric Shot Maps in Table Tennis.** Computer Graphics Forum, 2025, pp.10. <img alt="https://hal.science/hal-04997867/file/Player-Centric_Shot_Maps_in_Table_Tennis.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04997867/file/Player-Centric_Shot_Maps_in_Table_Tennis.pdf">
+Aymeric Erades, Romain Vuillemot. **Player-Centric Shot Maps in Table Tennis.** Computer Graphics Forum, 2025, pp.10. <img alt="https://hal.science/hal-04997867/file/Player-Centric_Shot_Maps_in_Table_Tennis.pdf" src="figures/pdf.png" border="0" title="https://hal.science/hal-04997867/file/Player-Centric_Shot_Maps_in_Table_Tennis.pdf">
 
 Aymeric Erades, Lou Peuch, Romain Vuillemot. **Investigating Control Areas in Table Tennis.** Sixteenth International EuroVis Workshop on Visual Analytics (EuroVA), Jun 2025, Luxembourg, France. <a href="https://hal.science/hal-05032405/file/_TT__EuroVA_occupation.pdf" target="_blank">
-<img alt="https://hal.science/hal-05032405/file/_TT__EuroVA_occupation.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-05032405/file/_TT__EuroVA_occupation.pdf"></a>
+<img alt="https://hal.science/hal-05032405/file/_TT__EuroVA_occupation.pdf" src="figures/pdf.png" border="0" title="https://hal.science/hal-05032405/file/_TT__EuroVA_occupation.pdf"></a>
 
 Aymeric Erades, Thomas Papon, Romain Vuillemot. **Characterizing Serves in Table Tennis**. Machine Learning and Data Mining for Sports Analytics, Sep 2024, Vilnius (Lituanie), Lithuania. <a href="https://hal.science/hal-04691690/file/_MLSA24__Characterizing_Serves_in_Table_Tennis.pdf" target="_blank">
-<img alt="https://hal.science/hal-04691690/file/_MLSA24__Characterizing_Serves_in_Table_Tennis.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04691690/file/_MLSA24__Characterizing_Serves_in_Table_Tennis.pdf"></a>
+<img alt="https://hal.science/hal-04691690/file/_MLSA24__Characterizing_Serves_in_Table_Tennis.pdf" src="figures/pdf.png" border="0" title="https://hal.science/hal-04691690/file/_MLSA24__Characterizing_Serves_in_Table_Tennis.pdf"></a>
 
 Aymeric Erades, Anais Servais, Christophe Hurter, Romain Vuillemot. **Un design space de vidéos augmentées de matches de tennis de table**. Journée Visu, 2024. <a href="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf" target="_blank">
-<img alt="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf"></a>
+<img alt="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf" src="figures/pdf.png" border="0" title="https://hal.science/hal-04364838/file/Lijie_2023_TVCG___Swimming.pdf"></a>
 
 Aymeric Erades, Pierre-Etienne Martin, Romain Vuillemot, Boris Mansencal, Renaud Péteri, Julien Morlier, Stefan Duffner, Jenny Benois-Pineau. **SportsVideo: A Multimedia Dataset for Sports Event and Position Detection in Table Tennis and Swimming.** MediaEval 2023 Workshop collocated with MMM 2024, Feb 2024, Amsterdam, Netherlands. <a href="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf" target="_blank">
-<img alt="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf"></a>
+<img alt="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf" src="figures/pdf.png" border="0" title="https://hal.science/hal-04490839/file/_MediaEval23__Overview_paper.pdf"></a>
 
 Gabin Calmet, Aymeric Erades, Romain Vuillemot. **Exploring Table Tennis Analytics: Domination, Expected Score and Shot Diversity.** Machine Learning and Data Mining for Sports Analytics, Sep 2023, Turin, Italy. <a href="https://hal.science/hal-04240982/file/_MLSA23__Analyzing_Table_Tennis_Games_using_Detailed_Sports_Data.pdf" target="_blank">
-<img alt="https://hal.science/hal-04240982/file/_MLSA23__Analyzing_Table_Tennis_Games_using_Detailed_Sports_Data.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04240982/file/_MLSA23__Analyzing_Table_Tennis_Games_using_Detailed_Sports_Data.pdf"></a>
+<img alt="https://hal.science/hal-04240982/file/_MLSA23__Analyzing_Table_Tennis_Games_using_Detailed_Sports_Data.pdf" src="figures/pdf.png" border="0" title="https://hal.science/hal-04240982/file/_MLSA23__Analyzing_Table_Tennis_Games_using_Detailed_Sports_Data.pdf"></a>
 
 Aymeric Erades, Romain Vuillemot. **Visual Analysis of Table Tennis Game Tactics.**
-Journée VISU 2023. <a href="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf" target="_blank"><img alt="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf"></a>
+Journée VISU 2023. <a href="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf" target="_blank"><img alt="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf" src="figures/pdf.png" border="0" title="https://hal.science/hal-04241005/file/2023-JourneeVisu2023_Analyse_visuelle_de_la_tactique.pdf"></a>
 
-Pierre Duluard, Xinqing Li, Marc Plantevit, Céline Robardet, Romain Vuillemot. **Discovering and Visualizing Tactics in a Table Tennis Game Based on Subgroup Discovery.**  ECML/PKDD 2022 Workshop, Grenoble, France, 2022. <a href="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf" target="_blank"><img alt="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf" src="https://haltools.archives-ouvertes.fr/images/Haltools_pdf.png" border="0" title="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf"></a>
+Pierre Duluard, Xinqing Li, Marc Plantevit, Céline Robardet, Romain Vuillemot. **Discovering and Visualizing Tactics in a Table Tennis Game Based on Subgroup Discovery.**  ECML/PKDD 2022 Workshop, Grenoble, France, 2022. <a href="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf" target="_blank"><img alt="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf" src="figures/pdf.png" border="0" title="https://hal.science/hal-03768114/file/_MLSA22__Knowledge_Discovery_in_Table_Tennis_Sequences.pdf"></a>
 
 ## Code and Data
 
@@ -188,6 +189,13 @@ Fait marquant du LIRIS 2023 [https://liris.cnrs.fr/sites/default/files/Documents
 
 JO 2024 : l’École Centrale de Lyon et la Fédération Française de Tennis de Table signent une convention de partenariat [https://www.ec-lyon.fr/centrale-lyon/actualites/jo-2024-lecole-centrale-de-lyon-et-la-federation-francaise-de-tennis-de-table-signent-une-convention](https://www.ec-lyon.fr/centrale-lyon/actualites/jo-2024-lecole-centrale-de-lyon-et-la-federation-francaise-de-tennis-de-table-signent-une-convention)
 
+JO 2024 : accompagner l'équipe de France de tennis de table dans sa quête de médaille grâce à l'IA [https://www.ec-lyon.fr/centrale-lyon/actualites/jo-2024-accompagner-lequipe-de-france-de-tennis-de-table-dans-sa-quete-de-medaille-grace-lia](https://www.ec-lyon.fr/centrale-lyon/actualites/jo-2024-accompagner-lequipe-de-france-de-tennis-de-table-dans-sa-quete-de-medaille-grace-lia)
+
+
+Deux doctorants du LIRIS distingués lors du bootcamp Expl’AURA [https://www.ec-lyon.fr/centrale-lyon/actualites/deux-doctorants-du-liris-distingues-lors-du-bootcamp-explaura](https://www.ec-lyon.fr/centrale-lyon/actualites/deux-doctorants-du-liris-distingues-lors-du-bootcamp-explaura)
+
+
+
 ## Links
 
 LIRIS: [https://liris.cnrs.fr/](https://liris.cnrs.fr/)
@@ -197,7 +205,6 @@ Centrale Lyon: [https://www.ec-lyon.fr/](https://www.ec-lyon.fr/)
 Sciences 2024: [https://sciences2024.polytechnique.fr/](https://sciences2024.polytechnique.fr/)
 
 FFTT: [https://www.fftt.com/](https://www.fftt.com/)
-
 
 
 <figure>  <div style="display: flex; width: 100%;"><a href="https://www.ec-lyon.fr/" target="_blank">
