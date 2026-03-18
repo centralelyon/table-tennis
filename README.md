@@ -2,47 +2,6 @@
 
 Contact: [romain.vuillemot@ec-lyon.fr](mailto:romain.vuillemot@ec-lyon.fr)
 
-<script type="module">
-  import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
-
-  const data_activities = [
-    {name: "Romain Vuillemot", start: "2018-10", end: "2028-09", type: "Assistant Prof.", people: ["Romain Vuillemot"]},  
-    {name: "Aymeric Erades", start: "2022-09", end: "2025-10", type: "PhD Student", people: ["Aymeric Erades"]}
-  ];
-
-  // Convert dates to ISO strings for plotting
-  const parsed = data_activities.map(d => ({
-    ...d,
-    start: new Date(d.start),
-    end: new Date(d.end)
-  }));
-
-  const chart = Plot.plot({
-    marginLeft: 120,
-    width: 800,
-    height: 300,
-    y: {
-      label: null,
-      domain: [...new Set(parsed.map(d => d.name))].reverse()
-    },
-    x: {
-      type: "utc",
-      label: "Date"
-    },
-    marks: [
-      Plot.ruleX(parsed, {x: "start", stroke: "#ccc"}),
-      Plot.barX(parsed, {
-        x1: "start",
-        x2: "end",
-        y: "name",
-        fill: "type",
-        title: d => `${d.name} (${d.type}): ${d.start.toISOString().slice(0, 10)} → ${d.end.toISOString().slice(0, 10)}`
-      })
-    ]
-  });
-
-//  document.getElementById("timeline").appendChild(chart);
-</script>
 ## What do we do?
 
 We are a team of researchers at [Centrale Lyon](https://www.ec-lyon.fr/) (French Engineering School) and [LIRIS](https://liris.cnrs.fr/) (Reaserch Laboratory) working on sports data analysis and visualization to improve athletes performances. We focus on various sports, from swimming to table tennis, in close collaboration with athletes and coaches. Our approach is the following:
@@ -84,7 +43,7 @@ Team:
 
 ## Publications
 
-Aymeric Erades. **Visual Analysis of Tactics in Table Tennis**, PhD Thesis, Centrale Lyon, 2025. <a href="https://hal.science/tel-05534364v2/document" target="_blank">
+Aymeric Erades. **Visual Analysis of Tactics in Table Tennis**, PhD Thesis, Centrale Lyon, 2025. <a href="pdf/TH_2025ECDL0025.pdf" target="_blank">
 <img alt="https://hal.science/tel-05534364v2/document" src="figures/pdf.png" border="0"></a> [Video](https://www.youtube.com/watch?v=2sZdIiWiR4Q)
 
 Aymeric Erades, Romain Vuillemot. **How Camera Angle Impact Table Tennis Ball Bounce Tracking**. Sports Physics, 2025. <a href="https://eradesaymeric.github.io/pdf/paper_2025_sports_physics.pdf" target="_blank">
