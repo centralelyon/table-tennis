@@ -12,7 +12,7 @@ We are a team of researchers at [Centrale Lyon](https://www.ec-lyon.fr/) (French
 
 As a research group our activity is centered as follows:
 
-- **Publishing** research academic publications in sports-specific venues (e.g. MLSA workshop) but also general Vis/HCI (IEEE Vis, EuroGraphics, CHI).
+- **Publishing** research academic publications in sports-specific venues (e.g. MLSA workshop) but also general Vis/HCI (e.g. IEEE Vis, EuroGraphics, CHI).
 - **Developing** tools and methods for data collection and analysis.
 - **Collaborating** with other researchers and institutions in the field of sports analytics.
 - **Disseminating** our findings through conferences, workshops, and online platforms.
@@ -109,6 +109,19 @@ Data:
 - Ecole d'été 2025 [https://2e4.sciencesconf.org/](https://2e4.sciencesconf.org/)
 - Pint of Science 2024 (le 21 mai 2024, à Lyon) [https://pintofscience.fr/event/quand-la-science-performe-aux-jeux-olympiques](https://pintofscience.fr/event/quand-la-science-performe-aux-jeux-olympiques)
 
+## Videos
+
+### Aymeric Erades PhD Defense
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2sZdIiWiR4Q?si=UfaspS_W3Oczq0ld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Control areas in Table Tennis
+
+  <video controls width="800">
+    <source src="https://raw.githubusercontent.com/centralelyon/table-tennis-control-areas/main/video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
 ## Press Coverage
 
 <figure>
@@ -153,7 +166,7 @@ JO 2024 : accompagner l'équipe de France de tennis de table dans sa quête de m
 
 Deux doctorants du LIRIS distingués lors du bootcamp Expl’AURA [https://www.ec-lyon.fr/centrale-lyon/actualites/deux-doctorants-du-liris-distingues-lors-du-bootcamp-explaura](https://www.ec-lyon.fr/centrale-lyon/actualites/deux-doctorants-du-liris-distingues-lors-du-bootcamp-explaura)
 
-
+Fête de la Science 2025 "Quand l'IA révolutionne le tennis de table" https://www.ec-lyon.fr/centrale-lyon/evenements/demain-sinvente-fete-de-la-science-2025
 
 ## Links
 
